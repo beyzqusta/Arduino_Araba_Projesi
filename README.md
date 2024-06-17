@@ -13,3 +13,6 @@
 #### • TP4056
 #### • Yellow Motor and Wheel Set
 
+![IMG_20240609_110514](https://github.com/beyzqusta/Arduino_Araba_Projesi/assets/129887098/9929d6c7-2b4e-4c4c-8960-ab4be8917d43)
+
+![IMG_20240528_104550](https://github.com/beyzqusta/Arduino_Araba_Projesi/assets/129887098/19cbceeb-6b60-4c05-9b2b-1c4b24775127)
